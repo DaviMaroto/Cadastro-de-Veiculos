@@ -36,5 +36,6 @@
   npm run dev
 ```
 ### Tecnologia utilizadas: 
-- React
+- Html
+- Css
 - JavaScript
